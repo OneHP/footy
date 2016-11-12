@@ -1,0 +1,1440 @@
+2016-08-20 23:21:34,892 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Starting early stopping training
+
+2016-08-20 23:21:46,878 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 0
+
+2016-08-20 23:21:47,024 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Score at epoch 0: 0.0
+
+2016-08-20 23:21:59,045 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 1
+
+2016-08-20 23:22:10,848 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 2
+
+2016-08-20 23:22:23,743 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 3
+
+2016-08-20 23:22:35,432 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 4
+
+2016-08-20 23:22:44,960 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 5
+
+2016-08-20 23:22:54,370 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 6
+
+2016-08-20 23:23:03,621 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 7
+
+2016-08-20 23:23:12,986 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 8
+
+2016-08-20 23:23:22,375 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 9
+
+2016-08-20 23:23:31,748 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 10
+
+2016-08-20 23:23:31,775 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Hit epoch termination condition at epoch 10. Details: ScoreImprovementEpochTerminationCondition(maxEpochsWithNoImprovement=10, minImprovement=0.0)
+
+2016-08-20 23:26:05,673 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Starting early stopping training
+
+2016-08-20 23:26:12,118 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 0
+
+2016-08-20 23:26:12,128 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Score at epoch 0: 1.0571326631987985
+
+2016-08-20 23:26:17,796 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 1
+
+2016-08-20 23:26:24,128 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 2
+
+2016-08-20 23:26:29,419 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 3
+
+2016-08-20 23:26:35,105 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 4
+
+2016-08-20 23:26:40,542 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 5
+
+2016-08-20 23:26:46,714 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 6
+
+2016-08-20 23:26:52,875 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 7
+
+2016-08-20 23:26:52,883 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+New best model: score = 1.0571087358097255, epoch = 7 (previous: score = 1.0571326631987985, epoch = 0)
+
+2016-08-20 23:26:59,179 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 8
+
+2016-08-20 23:26:59,186 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+New best model: score = 1.0564998886479393, epoch = 8 (previous: score = 1.0571087358097255, epoch = 7)
+
+2016-08-20 23:27:04,541 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 9
+
+2016-08-20 23:27:10,278 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 10
+
+2016-08-20 23:27:17,043 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 11
+
+2016-08-20 23:27:17,052 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+New best model: score = 1.056169366888188, epoch = 11 (previous: score = 1.0564998886479393, epoch = 8)
+
+2016-08-20 23:27:22,420 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 12
+
+2016-08-20 23:27:29,460 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 13
+
+2016-08-20 23:27:34,895 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 14
+
+2016-08-20 23:27:40,238 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 15
+
+2016-08-20 23:27:45,896 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 16
+
+2016-08-20 23:27:54,176 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 17
+
+2016-08-20 23:27:54,185 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+New best model: score = 1.056109898718836, epoch = 17 (previous: score = 1.056169366888188, epoch = 11)
+
+2016-08-20 23:27:59,687 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 18
+
+2016-08-20 23:28:05,243 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 19
+
+2016-08-20 23:28:05,251 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+New best model: score = 1.055657962047892, epoch = 19 (previous: score = 1.056109898718836, epoch = 17)
+
+2016-08-20 23:28:12,277 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 20
+
+2016-08-20 23:28:18,295 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 21
+
+2016-08-20 23:28:23,670 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 22
+
+2016-08-20 23:28:29,092 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 23
+
+2016-08-20 23:28:36,839 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 24
+
+2016-08-20 23:28:36,846 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+New best model: score = 1.0554387039397517, epoch = 24 (previous: score = 1.055657962047892, epoch = 19)
+
+2016-08-20 23:28:42,215 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 25
+
+2016-08-20 23:28:47,639 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 26
+
+2016-08-20 23:28:54,527 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 27
+
+2016-08-20 23:29:00,934 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 28
+
+2016-08-20 23:29:06,342 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 29
+
+2016-08-20 23:29:06,350 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+New best model: score = 1.055317418218637, epoch = 29 (previous: score = 1.0554387039397517, epoch = 24)
+
+2016-08-20 23:29:12,124 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 30
+
+2016-08-20 23:29:12,132 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+New best model: score = 1.0548370605883242, epoch = 30 (previous: score = 1.055317418218637, epoch = 29)
+
+2016-08-20 23:29:19,530 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 31
+
+2016-08-20 23:29:24,913 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 32
+
+2016-08-20 23:29:30,372 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 33
+
+2016-08-20 23:29:30,380 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+New best model: score = 1.0547975043315643, epoch = 33 (previous: score = 1.0548370605883242, epoch = 30)
+
+2016-08-20 23:29:38,062 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 34
+
+2016-08-20 23:29:43,422 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 35
+
+2016-08-20 23:29:48,841 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 36
+
+2016-08-20 23:29:56,368 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 37
+
+2016-08-20 23:30:01,696 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 38
+
+2016-08-20 23:30:07,104 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 39
+
+2016-08-20 23:30:14,121 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 40
+
+2016-08-20 23:30:19,550 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 41
+
+2016-08-20 23:30:24,989 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 42
+
+2016-08-20 23:30:31,233 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 43
+
+2016-08-20 23:30:31,242 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Hit epoch termination condition at epoch 43. Details: ScoreImprovementEpochTerminationCondition(maxEpochsWithNoImprovement=10, minImprovement=0.0)
+
+2016-08-20 23:37:14,999 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Starting early stopping training
+
+2016-08-20 23:37:21,225 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 0
+
+2016-08-20 23:37:21,235 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Score at epoch 0: 1.0568270269036417
+
+2016-08-20 23:37:26,828 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 1
+
+2016-08-20 23:37:32,882 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 2
+
+2016-08-20 23:37:38,101 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 3
+
+2016-08-20 23:37:43,737 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 4
+
+2016-08-20 23:37:49,041 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 5
+
+2016-08-20 23:37:55,128 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 6
+
+2016-08-20 23:38:00,418 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 7
+
+2016-08-20 23:38:06,818 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 8
+
+2016-08-20 23:38:12,102 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 9
+
+2016-08-20 23:38:12,110 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Hit epoch termination condition at epoch 9. Details: MaxEpochsTerminationCondition(10)
+
+2016-08-20 23:39:08,111 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Starting early stopping training
+
+2016-08-20 23:39:14,326 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 0
+
+2016-08-20 23:39:14,337 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Score at epoch 0: 1.0889870539732704
+
+2016-08-20 23:39:14,461 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Hit epoch termination condition at epoch 0. Details: MaxEpochsTerminationCondition(1)
+
+2016-08-20 23:39:58,737 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Starting early stopping training
+
+2016-08-20 23:40:05,133 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 0
+
+2016-08-20 23:40:05,143 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Score at epoch 0: 1.0724500632997105
+
+2016-08-20 23:40:05,259 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Hit epoch termination condition at epoch 0. Details: MaxEpochsTerminationCondition(1)
+
+2016-08-20 23:41:44,217 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Starting early stopping training
+
+2016-08-20 23:41:50,432 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 0
+
+2016-08-20 23:41:50,443 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Score at epoch 0: 1.0685565180525305
+
+2016-08-20 23:41:50,557 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Hit epoch termination condition at epoch 0. Details: MaxEpochsTerminationCondition(1)
+
+2016-08-20 23:43:12,005 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Starting early stopping training
+
+2016-08-20 23:43:18,169 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 0
+
+2016-08-20 23:43:18,179 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Score at epoch 0: 1.075604375920063
+
+2016-08-20 23:43:23,711 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 1
+
+2016-08-20 23:43:23,721 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+New best model: score = 1.075429511893484, epoch = 1 (previous: score = 1.075604375920063, epoch = 0)
+
+2016-08-20 23:43:29,767 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 2
+
+2016-08-20 23:43:29,778 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+New best model: score = 1.0748923057841517, epoch = 2 (previous: score = 1.075429511893484, epoch = 1)
+
+2016-08-20 23:43:35,327 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 3
+
+2016-08-20 23:43:41,290 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 4
+
+2016-08-20 23:43:46,588 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 5
+
+2016-08-20 23:43:52,064 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 6
+
+2016-08-20 23:43:58,480 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 7
+
+2016-08-20 23:43:58,489 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+New best model: score = 1.0737096413889504, epoch = 7 (previous: score = 1.0748923057841517, epoch = 2)
+
+2016-08-20 23:44:03,853 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 8
+
+2016-08-20 23:44:09,654 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 9
+
+2016-08-20 23:44:09,664 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Hit epoch termination condition at epoch 9. Details: MaxEpochsTerminationCondition(10)
+
+2016-08-20 23:45:08,585 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Starting early stopping training
+
+2016-08-20 23:45:14,796 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 0
+
+2016-08-20 23:45:14,806 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Score at epoch 0: 1.0631700348778665
+
+2016-08-20 23:45:20,457 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 1
+
+2016-08-20 23:45:20,466 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+New best model: score = 1.0621676594832898, epoch = 1 (previous: score = 1.0631700348778665, epoch = 0)
+
+2016-08-20 23:45:26,616 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 2
+
+2016-08-20 23:45:32,167 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 3
+
+2016-08-20 23:45:32,175 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+New best model: score = 1.062084873660199, epoch = 3 (previous: score = 1.0621676594832898, epoch = 1)
+
+2016-08-20 23:45:38,143 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 4
+
+2016-08-20 23:45:38,151 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+New best model: score = 1.06126318916399, epoch = 4 (previous: score = 1.062084873660199, epoch = 3)
+
+2016-08-20 23:45:43,476 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 5
+
+2016-08-20 23:45:43,484 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+New best model: score = 1.0609693418909663, epoch = 5 (previous: score = 1.06126318916399, epoch = 4)
+
+2016-08-20 23:45:48,891 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 6
+
+2016-08-20 23:45:55,108 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 7
+
+2016-08-20 23:46:00,484 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 8
+
+2016-08-20 23:46:06,394 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 9
+
+2016-08-20 23:46:06,403 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+New best model: score = 1.06052906074844, epoch = 9 (previous: score = 1.0609693418909663, epoch = 5)
+
+2016-08-20 23:46:06,428 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Hit epoch termination condition at epoch 9. Details: MaxEpochsTerminationCondition(10)
+
+2016-08-20 23:51:59,753 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Starting early stopping training
+
+2016-08-20 23:52:05,991 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 0
+
+2016-08-20 23:52:06,001 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Score at epoch 0: 1.0777434879291592
+
+2016-08-20 23:52:11,582 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 1
+
+2016-08-20 23:52:11,592 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+New best model: score = 1.0765915378064548, epoch = 1 (previous: score = 1.0777434879291592, epoch = 0)
+
+2016-08-20 23:52:17,827 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 2
+
+2016-08-20 23:52:23,382 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 3
+
+2016-08-20 23:52:29,565 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 4
+
+2016-08-20 23:52:29,574 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+New best model: score = 1.0763759402605702, epoch = 4 (previous: score = 1.0765915378064548, epoch = 1)
+
+2016-08-20 23:52:29,577 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Hit epoch termination condition at epoch 4. Details: MaxEpochsTerminationCondition(5)
+
+2016-08-20 23:54:26,673 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Starting early stopping training
+
+2016-08-20 23:54:38,784 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 0
+
+2016-08-20 23:54:38,820 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Score at epoch 0: 0.0
+
+2016-08-20 23:54:50,896 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 1
+
+2016-08-20 23:55:02,721 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 2
+
+2016-08-20 23:55:14,807 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 3
+
+2016-08-20 23:55:25,827 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 4
+
+2016-08-20 23:55:25,918 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Hit epoch termination condition at epoch 4. Details: MaxEpochsTerminationCondition(5)
+
+2016-08-20 23:57:33,670 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Starting early stopping training
+
+2016-08-20 23:57:39,986 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 0
+
+2016-08-20 23:57:39,998 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Score at epoch 0: 1.0587877470513767
+
+2016-08-20 23:57:45,562 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 1
+
+2016-08-20 23:57:45,574 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+New best model: score = 1.0565007535162694, epoch = 1 (previous: score = 1.0587877470513767, epoch = 0)
+
+2016-08-20 23:57:51,938 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 2
+
+2016-08-20 23:57:51,945 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+New best model: score = 1.0556647246815785, epoch = 2 (previous: score = 1.0565007535162694, epoch = 1)
+
+2016-08-20 23:57:57,312 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 3
+
+2016-08-20 23:57:57,321 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+New best model: score = 1.055478407117325, epoch = 3 (previous: score = 1.0556647246815785, epoch = 2)
+
+2016-08-20 23:58:03,287 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 4
+
+2016-08-20 23:58:03,295 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Hit epoch termination condition at epoch 4. Details: MaxEpochsTerminationCondition(5)
+
+2016-08-20 23:59:36,512 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Starting early stopping training
+
+2016-08-20 23:59:48,930 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 0
+
+2016-08-20 23:59:48,968 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Score at epoch 0: 0.0
+
+2016-08-21 00:00:00,740 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 1
+
+2016-08-21 00:00:13,884 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 2
+
+2016-08-21 00:00:36,678 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 3
+
+2016-08-21 00:01:02,063 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 4
+
+2016-08-21 00:01:02,093 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Hit epoch termination condition at epoch 4. Details: MaxEpochsTerminationCondition(5)
+
+2016-08-21 00:01:31,741 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Starting early stopping training
+
+2016-08-21 00:01:49,382 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 0
+
+2016-08-21 00:01:49,536 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Score at epoch 0: 0.0
+
+2016-08-21 00:02:02,945 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 1
+
+2016-08-21 00:02:16,150 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 2
+
+2016-08-21 00:02:30,323 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 3
+
+2016-08-21 00:02:42,736 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 4
+
+2016-08-21 00:02:42,762 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Hit epoch termination condition at epoch 4. Details: MaxEpochsTerminationCondition(5)
+
+2016-08-21 00:12:35,547 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Starting early stopping training
+
+2016-08-21 00:12:41,882 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 0
+
+2016-08-21 00:12:41,893 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Score at epoch 0: 1.0639862158145246
+
+2016-08-21 00:12:47,490 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 1
+
+2016-08-21 00:12:54,041 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 2
+
+2016-08-21 00:12:59,408 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 3
+
+2016-08-21 00:13:05,424 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 4
+
+2016-08-21 00:13:10,777 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 5
+
+2016-08-21 00:13:17,709 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 6
+
+2016-08-21 00:13:24,905 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 7
+
+2016-08-21 00:13:30,240 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 8
+
+2016-08-21 00:13:35,615 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 9
+
+2016-08-21 00:13:41,098 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 10
+
+2016-08-21 00:13:41,458 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Hit epoch termination condition at epoch 10. Details: ScoreImprovementEpochTerminationCondition(maxEpochsWithNoImprovement=10, minImprovement=0.0)
+
+2016-08-21 00:14:52,676 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Starting early stopping training
+
+2016-08-21 00:14:58,986 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 0
+
+2016-08-21 00:14:58,996 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Score at epoch 0: 1.057919242396374
+
+2016-08-21 00:15:04,575 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 1
+
+2016-08-21 00:15:11,197 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 2
+
+2016-08-21 00:15:16,540 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 3
+
+2016-08-21 00:15:22,593 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 4
+
+2016-08-21 00:15:27,987 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 5
+
+2016-08-21 00:15:33,448 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 6
+
+2016-08-21 00:15:40,153 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 7
+
+2016-08-21 00:15:45,515 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 8
+
+2016-08-21 00:15:50,926 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 9
+
+2016-08-21 00:15:56,751 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 10
+
+2016-08-21 00:16:04,214 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 11
+
+2016-08-21 00:16:09,615 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 12
+
+2016-08-21 00:16:15,049 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 13
+
+2016-08-21 00:16:22,634 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 14
+
+2016-08-21 00:16:28,415 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 15
+
+2016-08-21 00:16:33,842 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 16
+
+2016-08-21 00:16:39,310 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 17
+
+2016-08-21 00:16:46,632 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 18
+
+2016-08-21 00:16:52,015 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 19
+
+2016-08-21 00:16:57,448 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 20
+
+2016-08-21 00:16:57,456 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Hit epoch termination condition at epoch 20. Details: ScoreImprovementEpochTerminationCondition(maxEpochsWithNoImprovement=20, minImprovement=0.0)
+
+2016-08-27 11:03:58,114 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Starting early stopping training
+
+2016-08-27 11:04:04,430 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 0
+
+2016-08-27 11:04:04,442 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Score at epoch 0: 1.063863619643804
+
+2016-08-27 11:04:10,004 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 1
+
+2016-08-27 11:04:10,014 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+New best model: score = 1.0616245644271673, epoch = 1 (previous: score = 1.063863619643804, epoch = 0)
+
+2016-08-27 11:04:16,493 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 2
+
+2016-08-27 11:04:21,860 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 3
+
+2016-08-27 11:04:27,920 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 4
+
+2016-08-27 11:04:33,390 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 5
+
+2016-08-27 11:04:38,999 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 6
+
+2016-08-27 11:04:47,736 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 7
+
+2016-08-27 11:04:54,917 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 8
+
+2016-08-27 11:05:01,153 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 9
+
+2016-08-27 11:05:06,847 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 10
+
+2016-08-27 11:05:06,859 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+New best model: score = 1.0612988084719497, epoch = 10 (previous: score = 1.0616245644271673, epoch = 1)
+
+2016-08-27 11:05:14,387 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 11
+
+2016-08-27 11:05:19,985 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 12
+
+2016-08-27 11:05:25,553 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 13
+
+2016-08-27 11:05:32,139 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 14
+
+2016-08-27 11:05:32,148 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+New best model: score = 1.060839471305016, epoch = 14 (previous: score = 1.0612988084719497, epoch = 10)
+
+2016-08-27 11:05:39,050 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 15
+
+2016-08-27 11:05:44,580 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 16
+
+2016-08-27 11:05:50,167 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 17
+
+2016-08-27 11:06:10,065 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 18
+
+2016-08-27 11:06:15,813 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 19
+
+2016-08-27 11:06:15,822 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+New best model: score = 1.0604897610415336, epoch = 19 (previous: score = 1.060839471305016, epoch = 14)
+
+2016-08-27 11:06:21,398 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 20
+
+2016-08-27 11:06:21,408 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+New best model: score = 1.0604591121704456, epoch = 20 (previous: score = 1.0604897610415336, epoch = 19)
+
+2016-08-27 11:06:28,339 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 21
+
+2016-08-27 11:06:34,673 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 22
+
+2016-08-27 11:06:40,246 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 23
+
+2016-08-27 11:06:40,255 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+New best model: score = 1.0601016754344312, epoch = 23 (previous: score = 1.0604591121704456, epoch = 20)
+
+2016-08-27 11:06:46,178 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 24
+
+2016-08-27 11:06:53,366 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 25
+
+2016-08-27 11:06:53,375 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+New best model: score = 1.0596575329497462, epoch = 25 (previous: score = 1.0601016754344312, epoch = 23)
+
+2016-08-27 11:06:58,965 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 26
+
+2016-08-27 11:06:58,975 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+New best model: score = 1.0596130000666992, epoch = 26 (previous: score = 1.0596575329497462, epoch = 25)
+
+2016-08-27 11:07:04,641 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 27
+
+2016-08-27 11:07:11,887 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 28
+
+2016-08-27 11:07:17,448 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 29
+
+2016-08-27 11:07:17,455 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+New best model: score = 1.0594716760350578, epoch = 29 (previous: score = 1.0596130000666992, epoch = 26)
+
+2016-08-27 11:07:23,082 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 30
+
+2016-08-27 11:07:30,463 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 31
+
+2016-08-27 11:07:36,023 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 32
+
+2016-08-27 11:07:41,598 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 33
+
+2016-08-27 11:07:48,909 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 34
+
+2016-08-27 11:07:48,917 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+New best model: score = 1.059425568955621, epoch = 34 (previous: score = 1.0594716760350578, epoch = 29)
+
+2016-08-27 11:07:54,455 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 35
+
+2016-08-27 11:08:00,028 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 36
+
+2016-08-27 11:08:06,715 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 37
+
+2016-08-27 11:08:12,713 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 38
+
+2016-08-27 11:08:18,275 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 39
+
+2016-08-27 11:08:24,190 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 40
+
+2016-08-27 11:08:31,067 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 41
+
+2016-08-27 11:08:36,644 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 42
+
+2016-08-27 11:08:42,288 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 43
+
+2016-08-27 11:08:49,572 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 44
+
+2016-08-27 11:08:55,255 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 45
+
+2016-08-27 11:09:00,864 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 46
+
+2016-08-27 11:09:00,872 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+New best model: score = 1.05942536983958, epoch = 46 (previous: score = 1.059425568955621, epoch = 34)
+
+2016-08-27 11:09:08,585 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 47
+
+2016-08-27 11:09:14,160 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 48
+
+2016-08-27 11:09:14,168 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+New best model: score = 1.0590976665269396, epoch = 48 (previous: score = 1.05942536983958, epoch = 46)
+
+2016-08-27 11:09:19,837 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 49
+
+2016-08-27 11:09:27,398 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 50
+
+2016-08-27 11:09:32,921 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 51
+
+2016-08-27 11:09:32,931 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+New best model: score = 1.058801200647337, epoch = 51 (previous: score = 1.0590976665269396, epoch = 48)
+
+2016-08-27 11:09:38,551 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 52
+
+2016-08-27 11:09:45,571 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 53
+
+2016-08-27 11:09:52,286 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 54
+
+2016-08-27 11:09:57,867 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 55
+
+2016-08-27 11:09:57,874 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+New best model: score = 1.0586377410187822, epoch = 55 (previous: score = 1.058801200647337, epoch = 51)
+
+2016-08-27 11:10:03,515 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 56
+
+2016-08-27 11:10:03,760 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+New best model: score = 1.058401328039558, epoch = 56 (previous: score = 1.0586377410187822, epoch = 55)
+
+2016-08-27 11:10:11,026 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 57
+
+2016-08-27 11:10:16,633 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 58
+
+2016-08-27 11:10:22,263 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 59
+
+2016-08-27 11:10:29,969 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 60
+
+2016-08-27 11:10:35,557 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 61
+
+2016-08-27 11:10:41,168 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 62
+
+2016-08-27 11:10:48,171 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 63
+
+2016-08-27 11:10:48,180 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+New best model: score = 1.0582408808211177, epoch = 63 (previous: score = 1.058401328039558, epoch = 56)
+
+2016-08-27 11:10:54,223 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 64
+
+2016-08-27 11:10:59,844 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 65
+
+2016-08-27 11:11:05,847 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 66
+
+2016-08-27 11:11:13,303 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 67
+
+2016-08-27 11:11:18,887 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 68
+
+2016-08-27 11:11:24,539 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 69
+
+2016-08-27 11:11:32,246 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 70
+
+2016-08-27 11:11:37,813 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 71
+
+2016-08-27 11:11:43,421 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 72
+
+2016-08-27 11:11:43,429 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+New best model: score = 1.05796144083722, epoch = 72 (previous: score = 1.0582408808211177, epoch = 63)
+
+2016-08-27 11:11:50,306 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 73
+
+2016-08-27 11:11:56,706 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 74
+
+2016-08-27 11:12:02,301 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 75
+
+2016-08-27 11:12:02,308 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+New best model: score = 1.0577517464193795, epoch = 75 (previous: score = 1.05796144083722, epoch = 72)
+
+2016-08-27 11:12:07,958 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 76
+
+2016-08-27 11:12:15,603 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 77
+
+2016-08-27 11:12:21,194 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 78
+
+2016-08-27 11:12:26,846 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 79
+
+2016-08-27 11:12:34,827 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 80
+
+2016-08-27 11:12:40,353 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 81
+
+2016-08-27 11:12:45,961 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 82
+
+2016-08-27 11:12:51,922 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 83
+
+2016-08-27 11:12:52,146 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+New best model: score = 1.0577089820609602, epoch = 83 (previous: score = 1.0577517464193795, epoch = 75)
+
+2016-08-27 11:12:59,585 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 84
+
+2016-08-27 11:13:05,145 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 85
+
+2016-08-27 11:13:10,798 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 86
+
+2016-08-27 11:13:18,859 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 87
+
+2016-08-27 11:13:24,401 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 88
+
+2016-08-27 11:13:24,408 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+New best model: score = 1.0576178220377923, epoch = 88 (previous: score = 1.0577089820609602, epoch = 83)
+
+2016-08-27 11:13:30,000 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 89
+
+2016-08-27 11:13:36,164 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 90
+
+2016-08-27 11:13:43,502 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 91
+
+2016-08-27 11:13:43,510 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+New best model: score = 1.0572072101927046, epoch = 91 (previous: score = 1.0576178220377923, epoch = 88)
+
+2016-08-27 11:13:49,088 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 92
+
+2016-08-27 11:13:54,726 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 93
+
+2016-08-27 11:14:02,775 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 94
+
+2016-08-27 11:14:08,316 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 95
+
+2016-08-27 11:14:13,919 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 96
+
+2016-08-27 11:14:20,364 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 97
+
+2016-08-27 11:14:27,578 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 98
+
+2016-08-27 11:14:33,146 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 99
+
+2016-08-27 11:14:38,833 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 100
+
+2016-08-27 11:14:46,835 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 101
+
+2016-08-27 11:14:52,392 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 102
+
+2016-08-27 11:14:52,400 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+New best model: score = 1.0570893304193363, epoch = 102 (previous: score = 1.0572072101927046, epoch = 91)
+
+2016-08-27 11:14:58,021 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 103
+
+2016-08-27 11:15:04,261 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 104
+
+2016-08-27 11:15:11,617 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 105
+
+2016-08-27 11:15:17,940 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 106
+
+2016-08-27 11:15:24,617 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 107
+
+2016-08-27 11:15:34,369 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 108
+
+2016-08-27 11:15:40,926 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 109
+
+2016-08-27 11:15:47,503 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 110
+
+2016-08-27 11:15:54,570 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 111
+
+2016-08-27 11:16:03,700 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 112
+
+2016-08-27 11:16:10,351 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 113
+
+2016-08-27 11:16:17,072 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 114
+
+2016-08-27 11:16:27,296 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 115
+
+2016-08-27 11:16:33,890 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 116
+
+2016-08-27 11:16:40,544 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 117
+
+2016-08-27 11:16:47,263 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 118
+
+2016-08-27 11:16:57,433 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 119
+
+2016-08-27 11:17:03,939 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 120
+
+2016-08-27 11:17:10,576 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 121
+
+2016-08-27 11:17:20,319 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Completed training epoch 122
+
+2016-08-27 11:17:20,327 - [INFO] - from org.deeplearning4j.earlystopping.trainer.BaseEarlyStoppingTrainer in main
+                
+Hit epoch termination condition at epoch 122. Details: ScoreImprovementEpochTerminationCondition(maxEpochsWithNoImprovement=20, minImprovement=0.0)
+
